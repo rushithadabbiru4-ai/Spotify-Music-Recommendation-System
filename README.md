@@ -112,6 +112,4 @@ Spotify-Music-Recommendation-System/
 - GitHub: https://github.com/rushithadabbiru4-ai
 - 
 
----
-
-## ⭐ If you found this project useful, please consider giving it a star on GitHub!
+--

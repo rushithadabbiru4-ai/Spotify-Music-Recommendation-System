@@ -88,50 +88,6 @@ Spotify-Music-Recommendation-System/
 
 ---
 
-## ▶️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/rushithadabbiru4-ai/Spotify-Music-Recommendation-System.git
-```
-
-Go to the project folder:
-
-```bash
-cd Spotify-Music-Recommendation-System
-```
-
-Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Usage
-
-Open the Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-Run all cells and test the recommendation system:
-
-```python
-recommend("Believer")
-```
-
-or
-
-```python
-recommend("Children")
-```
-
----
-
 ## 📈 Project Workflow
 
 1. Import Libraries
